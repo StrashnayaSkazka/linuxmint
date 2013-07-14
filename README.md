@@ -75,7 +75,7 @@ Startup Applications
     sudo apt-get update
     sudo apt-get install dockbarx-mate variety
 
-## Thunderbird
+## thunderbird
 
 edit->preferences->advanced->config editor->network.protocol-handler.warn-external.http;true
 
@@ -85,13 +85,13 @@ edit->account settings->composition->start my reply above the quote
 
 add-ons FireTray
 
-add Thunderbird to startup
+Add Thunderbird to startup
 
 ## compiz
 
-open mateconf-editor
+Open mateconf-editor
 
-change **/desktop/mate/session/required_components/windowmanager** to **compiz**
+Change **/desktop/mate/session/required_components/windowmanager** to **compiz**
 
 Desktop Cube->Skydom->/home/fehiepsi/Pictures/Skydome/Happy.jpg, Rotate Cube, Animations->Minimize->Magic Lamp, Ring Switcher, Place Windows, Move Windows, Resize Window, Wobbly Windows, Window Decoration
 
@@ -106,4 +106,4 @@ Go to Menu > Applications > Preferences > Appearance, switch to the other theme 
 
 ## chrome
 
-set zoom 110%
+Set zoom 110%
